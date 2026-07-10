@@ -45,6 +45,7 @@ ROADMAP.md
 PROGRESS.md
 REVIEW_GUIDE.md
 assignments/
+  README.md
   01-csharp-foundations/
     01-hello-profile/
       README.md
@@ -58,10 +59,24 @@ assignments/
     04-contact-list/
       README.md
       ISSUE.md
+  02-tools-and-debugging/
+    README.md
+  03-http-and-api/
+    README.md
+  04-sql-postgresql/
+    README.md
+  05-ef-core-postgresql/
+    README.md
+  06-tests-quality/
+    README.md
+  07-docker-production/
+    README.md
 projects/
   todo-api/
   study-planner-api/
 ```
+
+`ROADMAP.md` описывает весь учебный путь. `assignments` повторяет модули из roadmap и хранит маленькие домашки. `projects` хранит большие проекты, которые могут расти через несколько модулей.
 
 ## Текущий Статус
 
