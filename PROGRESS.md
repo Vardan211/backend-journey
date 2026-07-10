@@ -9,6 +9,7 @@
 Выполнено:
 
 - [ ] HW01: Hello Profile
+- [ ] HW02: Simple Calculator
 
 Понял:
 
@@ -30,5 +31,9 @@
 
 Следующее:
 
-- HW02: условия и типы.
+- HW02: Simple Calculator.
 
+Ближайший буфер:
+
+- HW03: Number Guessing Game
+- HW04: Contact List
