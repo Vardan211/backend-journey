@@ -77,6 +77,9 @@ assignments/
     10-file-notes-app/
       README.md
       ISSUE.md
+    11-foundation-capstone-study-tracker/
+      README.md
+      ISSUE.md
   02-tools-and-debugging/
     README.md
   03-http-and-api/
@@ -118,4 +121,10 @@ assignments/01-csharp-foundations/05-shopping-list-collections
 assignments/01-csharp-foundations/06-word-counter-dictionary
 assignments/01-csharp-foundations/07-methods-grade-analyzer
 assignments/01-csharp-foundations/08-contact-book-classes
+```
+
+Финальная задача модуля 01:
+
+```text
+assignments/01-csharp-foundations/11-foundation-capstone-study-tracker
 ```

@@ -18,6 +18,7 @@
 - [ ] HW08: Contact Book With Classes
 - [ ] HW09: Todo List With Classes
 - [ ] HW10: File Notes App
+- [ ] HW11: Foundation Capstone - Study Tracker Console
 
 Понял:
 

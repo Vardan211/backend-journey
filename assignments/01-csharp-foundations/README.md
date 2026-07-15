@@ -14,3 +14,4 @@
 8. `08-contact-book-classes` - книга контактов на классах, объектах и `List<Contact>`.
 9. `09-todo-list-classes` - список задач на `TodoItem`, состоянии и фильтрации.
 10. `10-file-notes-app` - заметки с сохранением в файл и чтением после перезапуска.
+11. `11-foundation-capstone-study-tracker` - итоговый консольный трекер, который собирает вместе весь foundation.
