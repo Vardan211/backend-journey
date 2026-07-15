@@ -1,4 +1,4 @@
-# HW06: File Notes App
+# HW10: File Notes App
 
 ## Goal
 
@@ -33,5 +33,5 @@ Build a console notes app that saves notes to `notes.txt` and can read them afte
 Use:
 
 ```text
-hw/06-file-notes-app
+hw/10-file-notes-app
 ```

@@ -12,8 +12,12 @@
 - [x] HW02: Simple Calculator
 - [x] HW03: Number Guessing Game
 - [ ] HW04: Contact List
-- [ ] HW05: Contact Book With Classes
-- [ ] HW06: File Notes App
+- [ ] HW05: Shopping List Collections
+- [ ] HW06: Word Counter Dictionary
+- [ ] HW07: Methods Grade Analyzer
+- [ ] HW08: Contact Book With Classes
+- [ ] HW09: Todo List With Classes
+- [ ] HW10: File Notes App
 
 Понял:
 
@@ -39,5 +43,7 @@
 
 Ближайший буфер:
 
-- HW05: Contact Book With Classes
-- HW06: File Notes App
+- HW05: Shopping List Collections
+- HW06: Word Counter Dictionary
+- HW07: Methods Grade Analyzer
+- HW08: Contact Book With Classes

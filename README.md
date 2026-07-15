@@ -59,10 +59,22 @@ assignments/
     04-contact-list/
       README.md
       ISSUE.md
-    05-contact-book-classes/
+    05-shopping-list-collections/
       README.md
       ISSUE.md
-    06-file-notes-app/
+    06-word-counter-dictionary/
+      README.md
+      ISSUE.md
+    07-methods-grade-analyzer/
+      README.md
+      ISSUE.md
+    08-contact-book-classes/
+      README.md
+      ISSUE.md
+    09-todo-list-classes/
+      README.md
+      ISSUE.md
+    10-file-notes-app/
       README.md
       ISSUE.md
   02-tools-and-debugging/
@@ -95,13 +107,15 @@ assignments/01-csharp-foundations/04-contact-list
 Следующие задания после принятия `HW04`:
 
 ```text
-assignments/01-csharp-foundations/05-contact-book-classes
-assignments/01-csharp-foundations/06-file-notes-app
+assignments/01-csharp-foundations/05-shopping-list-collections
+assignments/01-csharp-foundations/06-word-counter-dictionary
 ```
 
 Ближайший буфер:
 
 ```text
-assignments/01-csharp-foundations/05-contact-book-classes
-assignments/01-csharp-foundations/06-file-notes-app
+assignments/01-csharp-foundations/05-shopping-list-collections
+assignments/01-csharp-foundations/06-word-counter-dictionary
+assignments/01-csharp-foundations/07-methods-grade-analyzer
+assignments/01-csharp-foundations/08-contact-book-classes
 ```

@@ -1,4 +1,4 @@
-# HW05: Contact Book With Classes
+# HW08: Contact Book With Classes
 
 ## Цель
 
@@ -73,7 +73,7 @@ class Book
 Из корня репозитория:
 
 ```powershell
-cd assignments/01-csharp-foundations/05-contact-book-classes
+cd assignments/01-csharp-foundations/08-contact-book-classes
 dotnet new console --output .
 dotnet run
 ```
@@ -85,7 +85,7 @@ dotnet run
 ```powershell
 git checkout main
 git pull
-git checkout -b hw/05-contact-book-classes
+git checkout -b hw/08-contact-book-classes
 ```
 
 Делать маленькие коммиты:
@@ -100,7 +100,7 @@ git commit -m "Add contact menu actions"
 Отправить ветку:
 
 ```powershell
-git push -u origin hw/05-contact-book-classes
+git push -u origin hw/08-contact-book-classes
 ```
 
 Потом открыть pull request в GitHub.

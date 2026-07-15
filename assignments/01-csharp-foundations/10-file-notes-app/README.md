@@ -1,4 +1,4 @@
-# HW06: File Notes App
+# HW10: File Notes App
 
 ## Цель
 
@@ -62,7 +62,7 @@ if (File.Exists(path))
 Из корня репозитория:
 
 ```powershell
-cd assignments/01-csharp-foundations/06-file-notes-app
+cd assignments/01-csharp-foundations/10-file-notes-app
 dotnet new console --output .
 dotnet run
 ```
@@ -74,7 +74,7 @@ dotnet run
 ```powershell
 git checkout main
 git pull
-git checkout -b hw/06-file-notes-app
+git checkout -b hw/10-file-notes-app
 ```
 
 Делать маленькие коммиты:
@@ -89,7 +89,7 @@ git commit -m "Read and search notes"
 Отправить ветку:
 
 ```powershell
-git push -u origin hw/06-file-notes-app
+git push -u origin hw/10-file-notes-app
 ```
 
 Потом открыть pull request в GitHub.
@@ -123,4 +123,4 @@ git push -u origin hw/06-file-notes-app
 
 ## Важное Правило
 
-Не использовать базу данных и не делать API. Это последнее консольное задание модуля 01. Дальше будет модуль про инструменты, ошибки и debugging.
+Не использовать базу данных и не делать API. Это последнее core-задание модуля 01. Дальше будет модуль про инструменты, ошибки и debugging.

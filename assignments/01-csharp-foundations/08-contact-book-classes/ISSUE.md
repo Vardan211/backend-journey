@@ -1,4 +1,4 @@
-# HW05: Contact Book With Classes
+# HW08: Contact Book With Classes
 
 ## Goal
 
@@ -34,5 +34,5 @@ Build a console contact book where each contact is a `Contact` object with name,
 Use:
 
 ```text
-hw/05-contact-book-classes
+hw/08-contact-book-classes
 ```
