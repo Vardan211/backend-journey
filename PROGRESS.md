@@ -8,8 +8,12 @@
 
 Выполнено:
 
-- [ ] HW01: Hello Profile
-- [ ] HW02: Simple Calculator
+- [x] HW01: Hello Profile
+- [x] HW02: Simple Calculator
+- [x] HW03: Number Guessing Game
+- [ ] HW04: Contact List
+- [ ] HW05: Contact Book With Classes
+- [ ] HW06: File Notes App
 
 Понял:
 
@@ -31,9 +35,9 @@
 
 Следующее:
 
-- HW02: Simple Calculator.
+- HW04: Contact List.
 
 Ближайший буфер:
 
-- HW03: Number Guessing Game
-- HW04: Contact List
+- HW05: Contact Book With Classes
+- HW06: File Notes App

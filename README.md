@@ -59,6 +59,12 @@ assignments/
     04-contact-list/
       README.md
       ISSUE.md
+    05-contact-book-classes/
+      README.md
+      ISSUE.md
+    06-file-notes-app/
+      README.md
+      ISSUE.md
   02-tools-and-debugging/
     README.md
   03-http-and-api/
@@ -80,21 +86,22 @@ projects/
 
 ## Текущий Статус
 
-Начать с задания:
+Активное задание:
 
 ```text
-assignments/01-csharp-foundations/01-hello-profile
+assignments/01-csharp-foundations/04-contact-list
 ```
 
-Следующее задание после принятия первого:
+Следующие задания после принятия `HW04`:
 
 ```text
-assignments/01-csharp-foundations/02-simple-calculator
+assignments/01-csharp-foundations/05-contact-book-classes
+assignments/01-csharp-foundations/06-file-notes-app
 ```
 
 Ближайший буфер:
 
 ```text
-assignments/01-csharp-foundations/03-number-guessing-game
-assignments/01-csharp-foundations/04-contact-list
+assignments/01-csharp-foundations/05-contact-book-classes
+assignments/01-csharp-foundations/06-file-notes-app
 ```
