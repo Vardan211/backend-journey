@@ -17,36 +17,35 @@ while (true)
             }
             else
             {
-                listProducts.Add(product);
+                listProducts.Add(product.Trim());
                 Console.WriteLine("Товар добавлен");
             }
             break;
 
 
         case "2":
+            if (listProducts.Count == 0)
+            {
+                Console.WriteLine("Список пуст");
+            }
             Console.WriteLine("Список продуктов");
             for (int i = 0; i < listProducts.Count; i++)
             {
                 Console.WriteLine($"{i + 1}. {listProducts[i]}");
             }
+
             break;
 
         case "3":
             Console.WriteLine("Напишите имя товара который вам нужен");
             string search = Console.ReadLine();
-            bool isFinded = false;
-            foreach (var listProduct in listProducts)
+            if(listProducts.Contains(search, StringComparer.OrdinalIgnoreCase))
             {
-                if (search == listProduct)
-                {
-                    isFinded = true;
-                    Console.WriteLine("Результат:\r\n" + search);
-                    break;
-                }
-                if (isFinded == false)
-                {
-                    Console.WriteLine("Такого контакта не существует");
-                }
+                Console.WriteLine("Результат:\r\n" + search);
+            }
+            else
+            {
+                Console.WriteLine("Такого товара нет");
             }
             break;
 
@@ -54,7 +53,6 @@ while (true)
             Console.WriteLine("Напишите число товара который нужно удалить");
             search = Console.ReadLine();
             int max = listProducts.Count;
-            isFinded = false;
             bool isNumber = int.TryParse(search, out int number);
             if (isNumber == false)
             {
@@ -68,15 +66,14 @@ while (true)
                 }
                 else
                 {
-   
-                    isFinded = true;
+
                     int index = number - 1;
                     listProducts.RemoveAt(index);
                     Console.WriteLine("Товар успешно удален");
-                        
-                    }
-                   
+
                 }
+
+            }
             break;
 
         case "5":
@@ -90,15 +87,15 @@ while (true)
                 Console.WriteLine("Корзина очищена");
 
             }
-          break;
+            break;
 
         case "0":
             return;
-    
+
         default:
             Console.WriteLine("Такой команды нету");
             break;
-    }   
+    }
 
 
 }
