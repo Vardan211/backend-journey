@@ -10,7 +10,7 @@ namespace _11_foundation_capstone_study_tracker
         public string Name { get; }
         public string Subjeckt { get; }
         public bool IsDone { get; set; }
-        public StudyTask(string name, string subjeckt)
+        public StudyTask(string name, string subjeckt, bool isDone = false)
         {
 
             if (string.IsNullOrWhiteSpace(name))
@@ -24,7 +24,7 @@ namespace _11_foundation_capstone_study_tracker
 
             Subjeckt = subjeckt;
             Name = name;
-            IsDone = false;
+            IsDone = isDone;
 
         }
 
